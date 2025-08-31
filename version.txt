@@ -17,5 +17,5 @@ https://blog.naver.com/killkimno/222936631523 버전을 받아주세요]
 @MORT_32BIT_VERSION [1265] {https://blog.naver.com/killkimno/222936631523}
 
 //경고 - 모트 버전은 가장 아래에 있어야 함.
-@MORT_MINOR_VERSION [1290-1291] {https://github.com/killkimno/MORT_VERSION/releases/download/release/MORT.exe}
-@MORT_VERSION [1291] {https://blog.naver.com/killkimno/223907695562}
+@MORT_MINOR_VERSION [1290-1292] {https://github.com/killkimno/MORT_VERSION/releases/download/release/MORT.exe}
+@MORT_VERSION [1292] {https://blog.naver.com/killkimno/223907695562}
